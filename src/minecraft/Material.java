@@ -24,7 +24,7 @@ public enum Material implements Supplier<Block> {
   activator_rail,
   air,
   allium,
-  ancient_debris‌,
+  ancient_debris,
   andesite,
   andesite_slab,
   andesite_stairs,

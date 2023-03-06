@@ -67,7 +67,7 @@ public class MaterialLegacy {
   public static final int ACTIVATOR_RAIL = 58;
   public static final int AIR = 59;
   public static final int ALLIUM = 60;
-  public static final int ANCIENT_DEBRIS‌ = 61;
+  public static final int ANCIENT_DEBRIS = 61;
   public static final int ANDESITE = 62;
   public static final int ANDESITE_SLAB$BOTTOM = 63;
   public static final int ANDESITE_SLAB$DOUBLE = 64;
